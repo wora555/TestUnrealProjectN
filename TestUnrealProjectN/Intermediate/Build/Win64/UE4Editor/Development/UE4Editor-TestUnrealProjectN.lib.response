@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TestUnrealProjectN.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Github\TestUnrealProjectN\TestUnrealProjectN\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealProjectN\TestUnrealProjectN.cpp.obj"
+"D:\Github\TestUnrealProjectN\TestUnrealProjectN\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealProjectN\TestUnrealProjectNGameModeBase.cpp.obj"
+"D:\Github\TestUnrealProjectN\TestUnrealProjectN\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealProjectN\TestUnrealProjectN.init.gen.cpp.obj"
+"D:\Github\TestUnrealProjectN\TestUnrealProjectN\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealProjectN\TestUnrealProjectNGameModeBase.gen.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealProjectN\PCLaunch.rc.res"
+"D:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Github\TestUnrealProjectN\TestUnrealProjectN\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestUnrealProjectN.lib"
